@@ -2,7 +2,7 @@
 
 
 
-<br/>
+<br>
 ### [HTB Academy/](Academy/)
 - [x] [Module 9/](Academy/Module%209/) - Learning Process ([academy.hackthebox.com](https://academy.hackthebox.com/module/details/9))
 - [x] [Module 15/](Academy/Module%2015/) - Introduction to Academy ([academy.hackthebox.com](https://academy.hackthebox.com/module/details/15))
@@ -14,7 +14,7 @@
 
 
 
-<br/>
+<br>
 ### [HTB/](HTB/)
 - [ ] ...
 
