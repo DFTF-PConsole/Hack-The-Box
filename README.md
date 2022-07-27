@@ -3,5 +3,5 @@
 
 
 ### [HTB Academy/](Academy/) ([academy.hackthebox.com](https://academy.hackthebox.com/))
-- [x] [Module 21/](Academy/Module%2021/)
+- [x] [Module 21/](Academy/Module%2021/) - Introduction to Bash Scripting
 
