@@ -3,5 +3,5 @@
 
 
 ### Academy
-* [Module 21](Academy/Module%2021)
+[x] [Module 21](Academy/Module%2021)
 
