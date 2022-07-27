@@ -2,6 +2,6 @@
 
 
 
-### Academy
-- [x] [Module 21](Academy/Module%2021)
+### [Academy](Academy/)
+- [x] [Module 21](Academy/Module%2021/)
 
