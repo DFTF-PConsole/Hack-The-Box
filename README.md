@@ -1,7 +1,6 @@
 # HTB | Hack The Box
 
 
-
 <br />
 
 ## [`HTB Academy/`](Academy/)
@@ -14,12 +13,10 @@
 - [x] [`Module 87/`](Academy/Module%2087/) - **Setting Up**: This module covers topics that will help us be better prepared before conducting penetration tests ([academy.hackthebox.com](https://academy.hackthebox.com/module/details/87))
 
 
-
 <br />
 
 ## [`HTB/`](HTB/)
 - [ ] ...
-
 
 
 <br />
