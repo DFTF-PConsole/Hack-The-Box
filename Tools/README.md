@@ -20,8 +20,6 @@
 
 HTB Academy.
 
-<br>
-
 ### [`../HTB/`](HTB/) [`README.md`](../HTB/README.md)
 
 HTB.
