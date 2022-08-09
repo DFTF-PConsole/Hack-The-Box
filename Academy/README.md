@@ -22,7 +22,7 @@
 
 Compilation of tools covered along the learning paths.
 
-### [`../HTB/`](HTB/) [`README.md`](../HTB/README.md)
+### [`../HTB/`](../HTB/) [`README.md`](../HTB/README.md)
 
 HTB.
 
