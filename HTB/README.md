@@ -12,11 +12,9 @@
 
 ## 🔙 [Main](../README.md)
 
-### [`../Academy/`](Academy/) [`README.md`](../Academy/README.md)
+### [`../Academy/`](../Academy/) [`README.md`](../Academy/README.md)
 
 HTB Academy.
-
-<br>
 
 ### [`../Tools/`](../Tools/) [`README.md`](../Tools/README.md)
 
